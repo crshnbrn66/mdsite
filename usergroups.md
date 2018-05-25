@@ -27,3 +27,7 @@
 
 [Doug Finke](https://www.youtube.com/channel/UCP47ZkO5EDkoI2sr-3P4ShQ)
 
+[Omaha PSUG](https://www.youtube.com/channel/UCxO2RaP2ubFQYhJUC8jKdVQ)
+
+[PDX PowerShell User Group](https://www.youtube.com/channel/UCaLRsNTXI-cLLIvi3apLcSw)
+
