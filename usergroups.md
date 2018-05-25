@@ -19,3 +19,9 @@
 
 [Scottish PowerShell & DevOps User Group](https://www.youtube.com/channel/UC2vfwHkee-WPqVreJZzzNIA)
 
+[Cincinnati PowerShell User Group](https://www.youtube.com/channel/UCbmgsFhEEGQcLKIMrClFHLg)
+
+[French PowerShell User Group](https://www.youtube.com/channel/UCyxicOKZNm_u1opF_xAYfDA)
+
+[RTPSUG](https://www.youtube.com/channel/UCiTuB6HZiupE8CJ71vkMFnA)
+

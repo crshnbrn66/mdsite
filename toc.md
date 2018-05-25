@@ -9,3 +9,6 @@
     - [Mississippi](Mississippi.md)
     - [PhillyPosh](PhillyPosh.md)
     - [Scottish](Scottish.md)
+    - [Cincinnati PowerShell User Group](Cincinnati%20PowerShell%20User%20Group.md)
+    - [French PowerShell User Group](French%20PowerShell%20User%20Group.md)
+    - [RTPSUG](RTPSUG.md)

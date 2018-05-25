@@ -21,3 +21,9 @@ Mississippi,https://www.youtube.com/feeds/videos.xml?channel_id=UC7Eje7Fw3rYW3wp
 PhillyPosh,https://www.youtube.com/feeds/videos.xml?channel_id=UCAc_ow5FIJtRpvew__9Iqzg
 
 Scottish,https://www.youtube.com/feeds/videos.xml?channel_id=UC2vfwHkee-WPqVreJZzzNIA
+
+Cincinnati PowerShell User Group,https://www.youtube.com/feeds/videos.xml?channel_id=UCbmgsFhEEGQcLKIMrClFHLg
+
+French PowerShell User Group,https://www.youtube.com/feeds/videos.xml?channel_id=UCyxicOKZNm_u1opF_xAYfDA
+
+RTPSUG,https://www.youtube.com/feeds/videos.xml?channel_id=UCiTuB6HZiupE8CJ71vkMFnA
