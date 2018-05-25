@@ -1,4 +1,4 @@
-# One MOF to rule them all, and in the Azure bind them by Jacob Morrison
+﻿# One MOF to rule them all, and in the Azure bind them by Jacob Morrison
 
 [![One MOF to rule them all, and in the Azure bind them by Jacob Morrison](https://i4.ytimg.com/vi/76YH2Lw98Oo/hqdefault.jpg "One MOF to rule them all, and in the Azure bind them by Jacob Morrison")](https://www.youtube.com/watch?v=76YH2Lw98Oo)
 DSC is typically node specific. This talk explores a case example where both standard and custom DSC resources will be leveraged to break out of managing many MOF files or partial DSC configurations. One MOF in Azure can be used to dynamically configure all devices throughout your environment.

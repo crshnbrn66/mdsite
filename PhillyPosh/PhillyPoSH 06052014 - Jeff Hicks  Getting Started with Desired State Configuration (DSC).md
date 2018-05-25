@@ -1,4 +1,4 @@
-# PhillyPoSH 06/05/2014 - Jeff Hicks : Getting Started with Desired State Configuration (DSC)
+﻿# PhillyPoSH 06/05/2014 - Jeff Hicks : Getting Started with Desired State Configuration (DSC)
 
 [![PhillyPoSH 06/05/2014 - Jeff Hicks : Getting Started with Desired State Configuration (DSC)](https://i3.ytimg.com/vi/J5ru8h73F0g/hqdefault.jpg "PhillyPoSH 06/05/2014 - Jeff Hicks : Getting Started with Desired State Configuration (DSC)")](https://www.youtube.com/watch?v=J5ru8h73F0g)
 DSC is the big game changer for IT Pros. With DSC you no longer have to write PowerShell scripts to manage and configure your servers. Now you use PowerShell to build and manage server configurations. Want your server configured a specific way? Build a configuration and the server configures itself! In this presentation we will look at the principals of DSC and explore what it takes to get started using DSC in your environment.

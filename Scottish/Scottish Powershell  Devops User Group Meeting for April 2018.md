@@ -1,4 +1,4 @@
-# Scottish Powershell & Devops User Group Meeting for April 2018
+﻿# Scottish Powershell & Devops User Group Meeting for April 2018
 
 [![Scottish Powershell & Devops User Group Meeting for April 2018](https://i2.ytimg.com/vi/qsO6fbd3FN0/hqdefault.jpg "Scottish Powershell & Devops User Group Meeting for April 2018")](https://www.youtube.com/watch?v=qsO6fbd3FN0)
 Agenda:

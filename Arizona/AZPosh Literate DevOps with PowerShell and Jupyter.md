@@ -1,4 +1,4 @@
-# AZPosh: Literate DevOps with PowerShell and Jupyter
+﻿# AZPosh: Literate DevOps with PowerShell and Jupyter
 
 [![AZPosh: Literate DevOps with PowerShell and Jupyter](https://i1.ytimg.com/vi/XssVyyLV9tg/hqdefault.jpg "AZPosh: Literate DevOps with PowerShell and Jupyter")](https://www.youtube.com/watch?v=XssVyyLV9tg)
 Presenter(s): *Joel “Jaykul” Bennett:* 

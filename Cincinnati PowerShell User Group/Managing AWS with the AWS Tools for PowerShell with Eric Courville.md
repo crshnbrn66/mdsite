@@ -1,4 +1,4 @@
-# Managing AWS with the AWS Tools for PowerShell with Eric Courville
+﻿# Managing AWS with the AWS Tools for PowerShell with Eric Courville
 
 [![Managing AWS with the AWS Tools for PowerShell with Eric Courville](https://i2.ytimg.com/vi/QJDc9wVOPeM/hqdefault.jpg "Managing AWS with the AWS Tools for PowerShell with Eric Courville")](https://www.youtube.com/watch?v=QJDc9wVOPeM)
 Managing AWS with the AWS Tools for PowerShell with Eric Courville

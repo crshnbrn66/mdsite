@@ -1,4 +1,4 @@
-# PhillyPoSH 07/03/2014 - Dr. Ferdinand G. Rios : Building PowerShell GUI Tool Solutions
+﻿# PhillyPoSH 07/03/2014 - Dr. Ferdinand G. Rios : Building PowerShell GUI Tool Solutions
 
 [![PhillyPoSH 07/03/2014 - Dr. Ferdinand G. Rios : Building PowerShell GUI Tool Solutions](https://i2.ytimg.com/vi/1daOFL4lp5E/hqdefault.jpg "PhillyPoSH 07/03/2014 - Dr. Ferdinand G. Rios : Building PowerShell GUI Tool Solutions")](https://www.youtube.com/watch?v=1daOFL4lp5E)
 Ferdinand Rios will discuss the differences between scripts and tools and how to easily create GUI based tools using PowerShell Studio 2014. We're really excited to have Ferdinand with us and to learn all the cool possibilities PowerShell Studio brings to the table. In case you missed it you can also catch Ferdinand and David Corrales from Sapien on a recent episode of the PowerScripting podcast.

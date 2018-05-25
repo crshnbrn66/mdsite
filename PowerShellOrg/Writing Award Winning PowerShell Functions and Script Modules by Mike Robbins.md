@@ -1,4 +1,4 @@
-# Writing Award Winning PowerShell Functions and Script Modules by Mike Robbins
+﻿# Writing Award Winning PowerShell Functions and Script Modules by Mike Robbins
 
 [![Writing Award Winning PowerShell Functions and Script Modules by Mike Robbins](https://i1.ytimg.com/vi/d5x0Di52QZA/hqdefault.jpg "Writing Award Winning PowerShell Functions and Script Modules by Mike Robbins")](https://www.youtube.com/watch?v=d5x0Di52QZA)
 Learn to write award winning advanced functions and script modules in PowerShell using the industry’s best practices from a former winner of the advanced category in the scripting games without having to sift through 10 years’ worth of outdated content on the Internet.

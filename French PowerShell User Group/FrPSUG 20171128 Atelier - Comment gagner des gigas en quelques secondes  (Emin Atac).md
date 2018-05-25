@@ -1,4 +1,4 @@
-# FrPSUG 2017/11/28 Atelier - Comment gagner des gigas en quelques secondes ? (Emin Atac)
+﻿# FrPSUG 2017/11/28 Atelier - Comment gagner des gigas en quelques secondes ? (Emin Atac)
 
 [![FrPSUG 2017/11/28 Atelier - Comment gagner des gigas en quelques secondes ? (Emin Atac)](https://i3.ytimg.com/vi/fZly3Cg73p8/hqdefault.jpg "FrPSUG 2017/11/28 Atelier - Comment gagner des gigas en quelques secondes ? (Emin Atac)")](https://www.youtube.com/watch?v=fZly3Cg73p8)
 French PowerShell User Group / Groupe d'utilisateurs PowerShell Francophone.

@@ -1,4 +1,4 @@
-# FrPSUG 2017/12/06 Comment �valuer la qualit� de code PowerShell avec PSCodeHealth(Mathieu� Buisson)
+﻿# FrPSUG 2017/12/06 Comment évaluer la qualité de code PowerShell avec PSCodeHealth(Mathieu­ Buisson)
 
 [![FrPSUG 2017/12/06 Comment évaluer la qualité de code PowerShell avec PSCodeHealth(Mathieu­ Buisson)](https://i2.ytimg.com/vi/mpYQkYHQjII/hqdefault.jpg "FrPSUG 2017/12/06 Comment évaluer la qualité de code PowerShell avec PSCodeHealth(Mathieu­ Buisson)")](https://www.youtube.com/watch?v=mpYQkYHQjII)
 French PowerShell User Group / Groupe d'utilisateurs PowerShell Francophone.

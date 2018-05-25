@@ -1,4 +1,4 @@
-# AZPosh:Data Decisions for PowerShell - Jeffery Hicks
+﻿# AZPosh:Data Decisions for PowerShell - Jeffery Hicks
 
 [![AZPosh:Data Decisions for PowerShell - Jeffery Hicks](https://i2.ytimg.com/vi/9BrRtE8XyKQ/hqdefault.jpg "AZPosh:Data Decisions for PowerShell - Jeffery Hicks")](https://www.youtube.com/watch?v=9BrRtE8XyKQ)
 Data Decisions for PowerShell

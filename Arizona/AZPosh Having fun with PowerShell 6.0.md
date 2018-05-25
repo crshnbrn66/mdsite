@@ -1,4 +1,4 @@
-# AZPosh: Having fun with PowerShell 6.0
+﻿# AZPosh: Having fun with PowerShell 6.0
 
 [![AZPosh: Having fun with PowerShell 6.0](https://i3.ytimg.com/vi/zW9arbDttoc/hqdefault.jpg "AZPosh: Having fun with PowerShell 6.0")](https://www.youtube.com/watch?v=zW9arbDttoc)
 Having fun with PowerShell 6.0 – JEA, remoting and cross-

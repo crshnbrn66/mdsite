@@ -1,4 +1,4 @@
-# Securing your Environment with Just Enough Administration by James Petty
+﻿# Securing your Environment with Just Enough Administration by James Petty
 
 [![Securing your Environment with Just Enough Administration by James Petty](https://i3.ytimg.com/vi/Zf6BJquD2NQ/hqdefault.jpg "Securing your Environment with Just Enough Administration by James Petty")](https://www.youtube.com/watch?v=Zf6BJquD2NQ)
 Giving everyone, local administrator or domain administrator privileges is a really bad idea. Even the best of admins makes mistakes which can have unexpected consequences. With JEA we can truly follow the model of least privilege access giving admins the rights they need to do their job. 
