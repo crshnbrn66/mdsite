@@ -1,4 +1,4 @@
-﻿# PhillyPoSH 3/26/2015 - Steven Murawski : Intermediate DSC – Building DSC Resources
+﻿#### PhillyPoSH 3/26/2015 - Steven Murawski : Intermediate DSC – Building DSC Resources
 
 [![PhillyPoSH 3/26/2015 - Steven Murawski : Intermediate DSC – Building DSC Resources](https://i3.ytimg.com/vi/b8Ekaf0dcb4/hqdefault.jpg "PhillyPoSH 3/26/2015 - Steven Murawski : Intermediate DSC – Building DSC Resources")](https://www.youtube.com/watch?v=b8Ekaf0dcb4)
 Intermediate DSC – Building DSC Resources

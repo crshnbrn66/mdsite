@@ -1,4 +1,4 @@
-﻿# DSC Community Call   Wednesday, January 31, 2018
+﻿#### DSC Community Call   Wednesday, January 31, 2018
 
 [![DSC Community Call   Wednesday, January 31, 2018](https://i2.ytimg.com/vi/e1xrlaWQ2WQ/hqdefault.jpg "DSC Community Call   Wednesday, January 31, 2018")](https://www.youtube.com/watch?v=e1xrlaWQ2WQ)
 This is a recording of the DSC Resource Kit community call that occurred on 12/31/2018

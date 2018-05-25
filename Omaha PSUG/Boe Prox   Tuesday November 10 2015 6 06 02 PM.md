@@ -1,4 +1,4 @@
-﻿# Boe Prox   Tuesday, November 10, 2015 6 06 02 PM
+﻿#### Boe Prox   Tuesday, November 10, 2015 6 06 02 PM
 
 [![Boe Prox   Tuesday, November 10, 2015 6 06 02 PM](https://i1.ytimg.com/vi/4w4r1LYcqj4/hqdefault.jpg "Boe Prox   Tuesday, November 10, 2015 6 06 02 PM")](https://www.youtube.com/watch?v=4w4r1LYcqj4)
 Join us this month as Omaha’s own Boe Prox (@proxb) talks about testing your PowerShell code with Pester!  Pester is an open source project on GitHub which provides a framework for running Unit Tests to execute and validate PowerShell commands inside of PowerShell. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.

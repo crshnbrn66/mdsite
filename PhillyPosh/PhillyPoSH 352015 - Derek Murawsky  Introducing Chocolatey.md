@@ -1,4 +1,4 @@
-﻿# PhillyPoSH 3/5/2015 - Derek Murawsky : Introducing Chocolatey
+﻿#### PhillyPoSH 3/5/2015 - Derek Murawsky : Introducing Chocolatey
 
 [![PhillyPoSH 3/5/2015 - Derek Murawsky : Introducing Chocolatey](https://i1.ytimg.com/vi/LqyHyoa_F1c/hqdefault.jpg "PhillyPoSH 3/5/2015 - Derek Murawsky : Introducing Chocolatey")](https://www.youtube.com/watch?v=LqyHyoa_F1c)
 Chocolatey is a package manager for Windows in the vein of APT and RPM. Written in Powershell and based on Nuget, it allows for easy installation, upgrade, and dependency management of software on Windows. In this talk, I will give an overview of Chocolatey from a Sysadmin point of view, and show how easy it is to create packages of your own.

@@ -1,4 +1,4 @@
-﻿# Defending Against PowerShell Attacks
+﻿#### Defending Against PowerShell Attacks
 
 [![Defending Against PowerShell Attacks](https://i1.ytimg.com/vi/tNciLllFhds/hqdefault.jpg "Defending Against PowerShell Attacks")](https://www.youtube.com/watch?v=tNciLllFhds)
 The security industry is ablaze with news about how PowerShell is being used by both commodity malware and attackers alike. Surely there’s got to be a way to defend yourself against these attacks!

@@ -1,4 +1,4 @@
-﻿# PhillyPoSH 09/04/2014 - Jan Egil Ring : Get Started with Windows PowerShell DSC
+﻿#### PhillyPoSH 09/04/2014 - Jan Egil Ring : Get Started with Windows PowerShell DSC
 
 [![PhillyPoSH 09/04/2014 - Jan Egil Ring : Get Started with Windows PowerShell DSC](https://i3.ytimg.com/vi/BeStZxknsCM/hqdefault.jpg "PhillyPoSH 09/04/2014 - Jan Egil Ring : Get Started with Windows PowerShell DSC")](https://www.youtube.com/watch?v=BeStZxknsCM)
 Jan will explain how to use Windows PowerShell Desired State Configuration (DSC), which was introduced in Windows PowerShell 4.0, to configure your environment. The purpose of DSC is to provide Deployment, Configuration and Compliance capabilities for Windows resources such as a files, services, roles and features, users, groups and anything that can be managed from PowerShell by using custom resources such as a script. During his talk you will. Learn how to use the configuration keyword to define configurations for different resources The two different configuration modes – Pull and Push – and how to configure them. and see several demos on how DSC can be leveraged in the real world

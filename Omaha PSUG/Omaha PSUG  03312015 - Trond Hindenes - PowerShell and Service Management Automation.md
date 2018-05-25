@@ -1,4 +1,4 @@
-﻿# Omaha PSUG  03/31/2015 - Trond Hindenes - PowerShell and Service Management Automation
+﻿#### Omaha PSUG  03/31/2015 - Trond Hindenes - PowerShell and Service Management Automation
 
 [![Omaha PSUG  03/31/2015 - Trond Hindenes - PowerShell and Service Management Automation](https://i2.ytimg.com/vi/eLKZ0GWAO10/hqdefault.jpg "Omaha PSUG  03/31/2015 - Trond Hindenes - PowerShell and Service Management Automation")](https://www.youtube.com/watch?v=eLKZ0GWAO10)
 Trond Hindenes speaking to the Omaha PowerShell User Group on PowerShell and Service Management Automation.
