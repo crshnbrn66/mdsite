@@ -1,6 +1,7 @@
 ﻿#### AZPosh: Test Driven Development Using Chef - Robb Scheiefer - Aug 1st 2017
 
 [![AZPosh: Test Driven Development Using Chef - Robb Scheiefer - Aug 1st 2017](https://i3.ytimg.com/vi/2j3vHLDdWRc/hqdefault.jpg "AZPosh: Test Driven Development Using Chef - Robb Scheiefer - Aug 1st 2017")](https://www.youtube.com/watch?v=2j3vHLDdWRc)
+
 Presenter(s): Robb Scheiefer
 Topic(s): Test Driven Development Using Chef
 URL(s): 

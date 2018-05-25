@@ -1,6 +1,7 @@
 ﻿#### FrPSUG 2017/01/11 Débuter avec les Windows Containers (Florent Appointaire)
 
 [![FrPSUG 2017/01/11 Débuter avec les Windows Containers (Florent Appointaire)](https://i2.ytimg.com/vi/u05rSvsLTxA/hqdefault.jpg "FrPSUG 2017/01/11 Débuter avec les Windows Containers (Florent Appointaire)")](https://www.youtube.com/watch?v=u05rSvsLTxA)
+
 French PowerShell User Group / Groupe d'utilisateurs PowerShell Francophone.
 
 Website: http://frpsug.github.io

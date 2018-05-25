@@ -1,6 +1,7 @@
 ﻿#### PDX PUG Meetup   Eric Courville 2018-03-14
 
 [![PDX PUG Meetup   Eric Courville 2018-03-14](https://i4.ytimg.com/vi/7Rmz8eD9Zas/hqdefault.jpg "PDX PUG Meetup   Eric Courville 2018-03-14")](https://www.youtube.com/watch?v=7Rmz8eD9Zas)
+
 Eric Courville - Managing AWS with the AWS Tools for PowerShell
 
 Summary:

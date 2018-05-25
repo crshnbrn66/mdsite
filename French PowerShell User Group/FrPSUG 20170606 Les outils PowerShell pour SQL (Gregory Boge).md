@@ -1,6 +1,7 @@
 ﻿#### FrPSUG 2017/06/06 Les outils PowerShell pour SQL (Gregory Boge)
 
 [![FrPSUG 2017/06/06 Les outils PowerShell pour SQL (Gregory Boge)](https://i4.ytimg.com/vi/gIzxfEeOtJU/hqdefault.jpg "FrPSUG 2017/06/06 Les outils PowerShell pour SQL (Gregory Boge)")](https://www.youtube.com/watch?v=gIzxfEeOtJU)
+
 French PowerShell User Group / Groupe d'utilisateurs PowerShell Francophone.
 
 Website: http://frpsug.github.io

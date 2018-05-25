@@ -1,6 +1,7 @@
 ﻿#### PhillyPoSH 3/26/2015 - Steven Murawski : Intermediate DSC – Building DSC Resources
 
 [![PhillyPoSH 3/26/2015 - Steven Murawski : Intermediate DSC – Building DSC Resources](https://i3.ytimg.com/vi/b8Ekaf0dcb4/hqdefault.jpg "PhillyPoSH 3/26/2015 - Steven Murawski : Intermediate DSC – Building DSC Resources")](https://www.youtube.com/watch?v=b8Ekaf0dcb4)
+
 Intermediate DSC – Building DSC Resources
  While there are a lot of DSC Resources out in the wild now, you’ll likely still have a need to create a custom resource.  We’ll dive into how we can use our existing PowerShell skills to develop DSC resources.  After that, we’ll touch on some more advanced patterns for ensuring proper operation of our DSC Resources – including testing DSC resources with Pester.
 

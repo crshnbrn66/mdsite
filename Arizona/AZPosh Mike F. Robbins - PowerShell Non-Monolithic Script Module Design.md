@@ -1,6 +1,7 @@
 ﻿#### AZPosh: Mike F. Robbins - PowerShell Non-Monolithic Script Module Design
 
 [![AZPosh: Mike F. Robbins - PowerShell Non-Monolithic Script Module Design](https://i1.ytimg.com/vi/XH7ajz3WT0A/hqdefault.jpg "AZPosh: Mike F. Robbins - PowerShell Non-Monolithic Script Module Design")](https://www.youtube.com/watch?v=XH7ajz3WT0A)
+
 Time: April 4th, 6PM
 Our Speaker: Mike F. Robbins
 

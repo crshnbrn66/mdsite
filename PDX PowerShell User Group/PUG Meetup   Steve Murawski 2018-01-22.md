@@ -1,6 +1,7 @@
 ﻿#### PUG Meetup   Steve Murawski 2018-01-22
 
 [![PUG Meetup   Steve Murawski 2018-01-22](https://i4.ytimg.com/vi/SaihBTz1Qd4/hqdefault.jpg "PUG Meetup   Steve Murawski 2018-01-22")](https://www.youtube.com/watch?v=SaihBTz1Qd4)
+
 Steven Murawski is a Developer Advocate at Microsoft. He's had years of experience helping organization go faster.
 
 In this meetup Steven Murawski talks about continuous deployment.

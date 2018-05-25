@@ -1,6 +1,7 @@
 ﻿#### FrPSUG 2017/05/10 PowerShell et les Text User Interface (TUI) (Flavien Michaleczek)
 
 [![FrPSUG 2017/05/10 PowerShell et les Text User Interface (TUI) (Flavien Michaleczek)](https://i1.ytimg.com/vi/XR06_VOqbGs/hqdefault.jpg "FrPSUG 2017/05/10 PowerShell et les Text User Interface (TUI) (Flavien Michaleczek)")](https://www.youtube.com/watch?v=XR06_VOqbGs)
+
 French PowerShell User Group / Groupe d'utilisateurs PowerShell Francophone.
 
 Website: http://frpsug.github.io

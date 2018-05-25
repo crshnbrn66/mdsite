@@ -1,6 +1,7 @@
 ﻿#### FrPSUG 2018/02/13 Retour d’expérience sur la mise en place de la méthode Dev/Ops avec Powershell
 
 [![FrPSUG 2018/02/13 Retour d’expérience sur la mise en place de la méthode Dev/Ops avec Powershell](https://i3.ytimg.com/vi/R0ePfYmljE8/hqdefault.jpg "FrPSUG 2018/02/13 Retour d’expérience sur la mise en place de la méthode Dev/Ops avec Powershell")](https://www.youtube.com/watch?v=R0ePfYmljE8)
+
 French PowerShell User Group / Groupe d'utilisateurs PowerShell Francophone.
 
 Website: http://frpsug.github.io
