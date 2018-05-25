@@ -13,3 +13,11 @@ ATXPowerShell, https://www.youtube.com/feeds/videos.xml?channel_id=UChN0jsc6e02j
 PowerShellOrg, https://www.youtube.com/feeds/videos.xml?channel_id=UCqIw7UUwC5fUBFXYX68aMrQ
 
 PowerShellConfEU, https://www.youtube.com/feeds/videos.xml?channel_id=UCxgrI58XiKnDDByjhRJs5fg
+
+GRPosh,https://www.youtube.com/feeds/videos.xml?channel_id=UCb9jg2gj9alnFVCXuRuEVaA
+
+Mississippi,https://www.youtube.com/feeds/videos.xml?channel_id=UC7Eje7Fw3rYW3wpoyli492g
+
+PhillyPosh,https://www.youtube.com/feeds/videos.xml?channel_id=UCAc_ow5FIJtRpvew__9Iqzg
+
+Scottish,https://www.youtube.com/feeds/videos.xml?channel_id=UC2vfwHkee-WPqVreJZzzNIA
