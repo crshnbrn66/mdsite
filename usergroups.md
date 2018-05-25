@@ -25,3 +25,5 @@
 
 [RTPSUG](https://www.youtube.com/channel/UCiTuB6HZiupE8CJ71vkMFnA)
 
+[Doug Finke](https://www.youtube.com/channel/UCP47ZkO5EDkoI2sr-3P4ShQ)
+

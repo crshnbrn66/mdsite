@@ -12,3 +12,4 @@
     - [Cincinnati PowerShell User Group](Cincinnati%20PowerShell%20User%20Group.md)
     - [French PowerShell User Group](French%20PowerShell%20User%20Group.md)
     - [RTPSUG](RTPSUG.md)
+    - [Doug Finke](Doug%20Finke.md)
