@@ -25,27 +25,27 @@
 
 [RTPSUG](https://www.youtube.com/channel/UCiTuB6HZiupE8CJ71vkMFnA)
 
-[Doug Finke](https://www.youtube.com/channel/UCP47ZkO5EDkoI2sr-3P4ShQ)
+[Doug Finke](https://www.youtube.com/results?search_query=PL5uoqS92stXioZw-u-ze_NtvSo0k0K0kq )
 
 [Omaha PSUG](https://www.youtube.com/channel/UCxO2RaP2ubFQYhJUC8jKdVQ)
 
 [PDX PowerShell User Group](https://www.youtube.com/channel/UCaLRsNTXI-cLLIvi3apLcSw)
 
-[Don Jones](https://www.youtube.com/channel/UCqPxcTs1F2k-NeZ-igDHvnQ)
+[Powershell Month of Lunches](https://www.youtube.com/results?search_query=PL6D474E721138865A )
 
-[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+[DevOps Global Summit 2018](https://www.youtube.com/results?search_query=PLfeA8kIs7CocGXuezOoYtLRdnK9S_Mq3e )
 
-[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+[DevOps Global Summit 2017](https://www.youtube.com/results?search_query=PLfeA8kIs7CoeQRT1xwtH-I3cfDvm8rNlk )
 
-[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+[DevOps Global Summit 2016](https://www.youtube.com/results?search_query=PLfeA8kIs7Coc1Jn5hC4e_XgbFUaS5jY2i )
 
-[Aaron Hoover](https://www.youtube.com/channel/UCX27-k3xeNSgXVklCx-dnXQ)
+[Powershell Summit 2014](https://www.youtube.com/results?search_query=PLfeA8kIs7CoeDFBKqLcPz5eU1B2_F9MgM )
 
-[Aaron Hoover](https://www.youtube.com/channel/UCX27-k3xeNSgXVklCx-dnXQ)
+[Powershell Summit 2013](https://www.youtube.com/results?search_query=PLfeA8kIs7CofI5Im8xTvqkaNzr8fBT8Ql )
 
-[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+[TechSessions PSOrg](https://www.youtube.com/results?search_query=PLfeA8kIs7Cockjl15f_iEfm3_p2KJIoPZ )
 
-[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+[Powershell Summit Europe 2015](https://www.youtube.com/results?search_query=PLfeA8kIs7CodimM6hjMqE13xHTPQUB8Pf )
 
-[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+[Powershell Summit Europe 2014](https://www.youtube.com/results?search_query=PLfeA8kIs7Coehjg9cB6foPjBojLHYQGb_ )
 
