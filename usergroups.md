@@ -31,3 +31,21 @@
 
 [PDX PowerShell User Group](https://www.youtube.com/channel/UCaLRsNTXI-cLLIvi3apLcSw)
 
+[Don Jones](https://www.youtube.com/channel/UCqPxcTs1F2k-NeZ-igDHvnQ)
+
+[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+
+[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+
+[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+
+[Aaron Hoover](https://www.youtube.com/channel/UCX27-k3xeNSgXVklCx-dnXQ)
+
+[Aaron Hoover](https://www.youtube.com/channel/UCX27-k3xeNSgXVklCx-dnXQ)
+
+[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+
+[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+
+[PowerShell.org](https://www.youtube.com/channel/UCqIw7UUwC5fUBFXYX68aMrQ)
+
