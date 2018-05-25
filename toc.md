@@ -5,3 +5,7 @@
     - [ATXPowerShell](ATXPowerShell.md)
     - [PowerShellOrg](PowerShellOrg.md)
     - [PowerShellConfEU](PowerShellConfEU.md)
+    - [GRPosh](GRPosh.md)
+    - [Mississippi](Mississippi.md)
+    - [PhillyPosh](PhillyPosh.md)
+    - [Scottish](Scottish.md)
