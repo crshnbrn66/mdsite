@@ -1,4 +1,5 @@
-﻿[FrPSUG 2018/04/17 Gestion d’une Infrastructure VMware avec PowerCLI (Jérôme Bezet-Torres)](French%20PowerShell%20User%20Group/FrPSUG%2020180417%20Gestion%20d’une%20Infrastructure%20VMware%20avec%20PowerCLI%20(Jérôme%20Bezet-Torres).md)
+﻿#### French PowerShell User Group Links
+[FrPSUG 2018/04/17 Gestion d’une Infrastructure VMware avec PowerCLI (Jérôme Bezet-Torres)](French%20PowerShell%20User%20Group/FrPSUG%2020180417%20Gestion%20d’une%20Infrastructure%20VMware%20avec%20PowerCLI%20(Jérôme%20Bezet-Torres).md)
 
 
 [FrPSUG 2018/03/26 Universal Dashboard (Arnaud Petitjean)](French%20PowerShell%20User%20Group/FrPSUG%2020180326%20Universal%20Dashboard%20(Arnaud%20Petitjean).md)
