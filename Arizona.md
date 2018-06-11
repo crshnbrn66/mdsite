@@ -1,4 +1,7 @@
 ﻿#### Arizona Links
+[AZPosh: Timothy Warner - Never in Plain Text](Arizona/AZPosh%20Timothy%20Warner%20-%20Never%20in%20Plain%20Text.md)
+
+
 [AZPosh: Literate DevOps with PowerShell and Jupyter](Arizona/AZPosh%20Literate%20DevOps%20with%20PowerShell%20and%20Jupyter.md)
 
 
@@ -39,8 +42,5 @@
 
 
 [AZPosh: Matthew Graeber (@mattifestation) - PowerShell Forensics](Arizona/AZPosh%20Matthew%20Graeber%20(@mattifestation)%20-%20PowerShell%20Forensics.md)
-
-
-[AZPosh: Larry Steele | Automating SQL Deployments | Nov-01-2016](Arizona/AZPosh%20Larry%20Steele%20%20Automating%20SQL%20Deployments%20%20Nov-01-2016.md)
 
 

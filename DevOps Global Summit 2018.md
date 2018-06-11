@@ -35,3 +35,12 @@
 [Why you should embrace OpenSource. Jenkins-PowerShell-Containers  by Gabriel Rojas](DevOps%20Global%20Summit%202018/Why%20you%20should%20embrace%20OpenSource.%20Jenkins-PowerShell-Containers%20%20by%20Gabriel%20Rojas.md)
 
 
+[The Build Release Pipeline Model for Mere Mortals  by Ryan Coates](DevOps%20Global%20Summit%202018/The%20Build%20Release%20Pipeline%20Model%20for%20Mere%20Mortals%20%20by%20Ryan%20Coates.md)
+
+
+[PowerShell Team: Inventory Your Server Environment and Detect Change at Scale by Jenny Hunter](DevOps%20Global%20Summit%202018/PowerShell%20Team%20Inventory%20Your%20Server%20Environment%20and%20Detect%20Change%20at%20Scale%20by%20Jenny%20Hunter.md)
+
+
+[Getting started with Just Enough Administration (JEA) by Jason Helmick](DevOps%20Global%20Summit%202018/Getting%20started%20with%20Just%20Enough%20Administration%20(JEA)%20by%20Jason%20Helmick.md)
+
+
