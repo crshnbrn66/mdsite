@@ -1,8 +1,5 @@
 ﻿#### PDX PowerShell User Group Links
-[PDX PUG Meetup - Jordan Smith - PowerShell in the Cloud with Azure Automation](PDX%20PowerShell%20User%20Group/PDX%20PUG%20Meetup%20-%20Jordan%20Smith%20-%20PowerShell%20in%20the%20Cloud%20with%20Azure%20Automation.md)
-
-
-[PDX PUG Meetup - Jordan Smith - PowerShell in the Cloud with Azure Automation](PDX%20PowerShell%20User%20Group/PDX%20PUG%20Meetup%20-%20Jordan%20Smith%20-%20PowerShell%20in%20the%20Cloud%20with%20Azure%20Automation.md)
+[PDX PUG Meetup - Justin Grote](PDX%20PowerShell%20User%20Group/PDX%20PUG%20Meetup%20-%20Justin%20Grote.md)
 
 
 [PDX PUG Meetup - Jordan Smith - PowerShell in the Cloud with Azure Automation](PDX%20PowerShell%20User%20Group/PDX%20PUG%20Meetup%20-%20Jordan%20Smith%20-%20PowerShell%20in%20the%20Cloud%20with%20Azure%20Automation.md)

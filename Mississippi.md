@@ -1,4 +1,7 @@
 ﻿#### Mississippi Links
+[Using BurntToast to Display Timely Notifications](Mississippi/Using%20BurntToast%20to%20Display%20Timely%20Notifications.md)
+
+
 [Writing Your First Azure Function](Mississippi/Writing%20Your%20First%20Azure%20Function.md)
 
 
@@ -39,8 +42,5 @@
 
 
 [Pester the Tester PowerShell Bugs Beware](Mississippi/Pester%20the%20Tester%20PowerShell%20Bugs%20Beware.md)
-
-
-[Acceptance Testing PowerShell Desired State Configuration with Test Kitchen](Mississippi/Acceptance%20Testing%20PowerShell%20Desired%20State%20Configuration%20with%20Test%20Kitchen.md)
 
 
