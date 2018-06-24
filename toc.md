@@ -26,3 +26,4 @@
     - [Powershell Summit Europe 2015](Powershell%20Summit%20Europe%202015.md)
     - [Powershell Summit Europe 2016](Powershell%20Summit%20Europe%202016.md)
     - [Powershell Summit Europe 2017](Powershell%20Summit%20Europe%202017.md)
+    - [Powershell Summit Europe 2018](Powershell%20Summit%20Europe%202018.md)

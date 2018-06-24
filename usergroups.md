@@ -53,3 +53,5 @@
 
 [Powershell Summit Europe 2017](https://www.youtube.com/results?search_query=PLDCEho7foSooHYGxYqUj2Q6C7usp4aKIQ )
 
+[PowerShell Conference EU](https://www.youtube.com/channel/UCxgrI58XiKnDDByjhRJs5fg)
+
