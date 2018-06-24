@@ -22,5 +22,7 @@
     - [Powershell Summit 2014](Powershell%20Summit%202014.md)
     - [Powershell Summit 2013](Powershell%20Summit%202013.md)
     - [TechSessions PSOrg](TechSessions%20PSOrg.md)
-    - [Powershell Summit Europe 2015](Powershell%20Summit%20Europe%202015.md)
     - [Powershell Summit Europe 2014](Powershell%20Summit%20Europe%202014.md)
+    - [Powershell Summit Europe 2015](Powershell%20Summit%20Europe%202015.md)
+    - [Powershell Summit Europe 2016](Powershell%20Summit%20Europe%202016.md)
+    - [Powershell Summit Europe 2017](Powershell%20Summit%20Europe%202017.md)

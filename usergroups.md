@@ -45,7 +45,11 @@
 
 [TechSessions PSOrg](https://www.youtube.com/results?search_query=PLfeA8kIs7Cockjl15f_iEfm3_p2KJIoPZ )
 
+[Powershell Summit Europe 2014](https://www.youtube.com/results?search_query=PLfeA8kIs7Coehjg9cB6foPjBojLHYQGb_ )
+
 [Powershell Summit Europe 2015](https://www.youtube.com/results?search_query=PLfeA8kIs7CodimM6hjMqE13xHTPQUB8Pf )
 
-[Powershell Summit Europe 2014](https://www.youtube.com/results?search_query=PLfeA8kIs7Coehjg9cB6foPjBojLHYQGb_ )
+[Powershell Summit Europe 2016](https://www.youtube.com/results?search_query=PLDCEho7foSoruQ-gL5GJw-lRkASPJOukl )
+
+[Powershell Summit Europe 2017](https://www.youtube.com/results?search_query=PLDCEho7foSooHYGxYqUj2Q6C7usp4aKIQ )
 
