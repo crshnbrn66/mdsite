@@ -1,4 +1,7 @@
 ﻿#### PowerShell Team Links
+[PowerShell Core Community Call - June 21, 2018](PowerShell%20Team/PowerShell%20Core%20Community%20Call%20-%20June%2021%202018.md)
+
+
 [DSC Resource Kit Community Call  Wednesday, June 6, 2018](PowerShell%20Team/DSC%20Resource%20Kit%20Community%20Call%20%20Wednesday%20June%206%202018.md)
 
 
@@ -39,8 +42,5 @@
 
 
 [DSC Community Call   Wednesday, September 27, 2017](PowerShell%20Team/DSC%20Community%20Call%20%20%20Wednesday%20September%2027%202017.md)
-
-
-[DSC Community Call Wednesday August 16 2017](PowerShell%20Team/DSC%20Community%20Call%20Wednesday%20August%2016%202017.md)
 
 

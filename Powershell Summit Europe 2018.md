@@ -1,46 +1,46 @@
 ﻿#### Powershell Summit Europe 2018 Links
-[OVF - getting fun from boring tasks - Mateusz Czerniawski](Powershell%20Summit%20Europe%202018/OVF%20-%20getting%20fun%20from%20boring%20tasks%20-%20Mateusz%20Czerniawski.md)
+[PoSh and IoT - Tom-Inge Larson, Julien Nury](Powershell%20Summit%20Europe%202018/PoSh%20and%20IoT%20-%20Tom-Inge%20Larson%20Julien%20Nury.md)
 
 
-[How we made Configurable Pester Tests for SQL Server - Chrissy LeMaire, Rob Sewell](Powershell%20Summit%20Europe%202018/How%20we%20made%20Configurable%20Pester%20Tests%20for%20SQL%20Server%20-%20Chrissy%20LeMaire%20Rob%20Sewell.md)
+[Reverse DSC: Making SharePoint Admins feel loved again - Rick Taylor](Powershell%20Summit%20Europe%202018/Reverse%20DSC%20Making%20SharePoint%20Admins%20feel%20loved%20again%20-%20Rick%20Taylor.md)
 
 
-[Saving Mr Typo: Authoring Tab Expansions with TabExpansionPlusPlus - Bartosz Bielawski](Powershell%20Summit%20Europe%202018/Saving%20Mr%20Typo%20Authoring%20Tab%20Expansions%20with%20TabExpansionPlusPlus%20-%20Bartosz%20Bielawski.md)
+[(How to) Become a PowerShell Type System Ninja! - Mathias Jessen](Powershell%20Summit%20Europe%202018/(How%20to)%20Become%20a%20PowerShell%20Type%20System%20Ninja!%20-%20Mathias%20Jessen.md)
 
 
-[Somewhat Advanced dbatools Development - Chrissy LeMaire, Friedrich Weinmann](Powershell%20Summit%20Europe%202018/Somewhat%20Advanced%20dbatools%20Development%20-%20Chrissy%20LeMaire%20Friedrich%20Weinmann.md)
+[A matter of trust: Authentication and authorization in the PowerShell - Thorsten Butz](Powershell%20Summit%20Europe%202018/A%20matter%20of%20trust%20Authentication%20and%20authorization%20in%20the%20PowerShell%20-%20Thorsten%20Butz.md)
 
 
-[Case of the Unexplained, PowerShell Edition - Daniël Both](Powershell%20Summit%20Europe%202018/Case%20of%20the%20Unexplained%20PowerShell%20Edition%20-%20Daniël%20Both.md)
+[TFS and VSTS through Infrastructure as Code - Jeff Wouters](Powershell%20Summit%20Europe%202018/TFS%20and%20VSTS%20through%20Infrastructure%20as%20Code%20-%20Jeff%20Wouters.md)
 
 
-[How to become a PowerShell Type System Ninja! (Part 2) - Mathias Jessen](Powershell%20Summit%20Europe%202018/How%20to%20become%20a%20PowerShell%20Type%20System%20Ninja!%20(Part%202)%20-%20Mathias%20Jessen.md)
+[A Historical Architectural Tour of PowerShell - Bruce Payette](Powershell%20Summit%20Europe%202018/A%20Historical%20Architectural%20Tour%20of%20PowerShell%20-%20Bruce%20Payette.md)
 
 
-[Desired State: A close look at the PowerShell and DSC integrations with Chef - Stuart Preston](Powershell%20Summit%20Europe%202018/Desired%20State%20A%20close%20look%20at%20the%20PowerShell%20and%20DSC%20integrations%20with%20Chef%20-%20Stuart%20Preston.md)
+[PowerShell Engine Internals  - Dongbo Wang](Powershell%20Summit%20Europe%202018/PowerShell%20Engine%20Internals%20%20-%20Dongbo%20Wang.md)
 
 
-[Continuous Delivery for your Module to the PowerShell Gallery - Rob Sewell](Powershell%20Summit%20Europe%202018/Continuous%20Delivery%20for%20your%20Module%20to%20the%20PowerShell%20Gallery%20-%20Rob%20Sewell.md)
+[Red vs. Blue – Ready, Steady, Fight! - Julien Reisdorffer, David das Neves](Powershell%20Summit%20Europe%202018/Red%20vs.%20Blue%20–%20Ready%20Steady%20Fight!%20-%20Julien%20Reisdorffer%20David%20das%20Neves.md)
 
 
-[Infrastructure validation using Pester, Irwin Strachan](Powershell%20Summit%20Europe%202018/Infrastructure%20validation%20using%20Pester%20Irwin%20Strachan.md)
+[Revoke-Obfuscation: PowerShell Obfuscation Detection (And Evasion) Using Science - Daniel Bohannon](Powershell%20Summit%20Europe%202018/Revoke-Obfuscation%20PowerShell%20Obfuscation%20Detection%20(And%20Evasion)%20Using%20Science%20-%20Daniel%20Bohannon.md)
 
 
-[Configurations, Personalities, and Stamps: Modular approach to realizing the deployment pipelin...](Powershell%20Summit%20Europe%202018/Configurations%20Personalities%20and%20Stamps%20Modular%20approach%20to%20realizing%20the%20deployment%20pipelin....md)
+[Test-Driven Infrastructure with Test Kitchen, Chef, and DSC - Stuart Preston, Gael Colas](Powershell%20Summit%20Europe%202018/Test-Driven%20Infrastructure%20with%20Test%20Kitchen%20Chef%20and%20DSC%20-%20Stuart%20Preston%20Gael%20Colas.md)
 
 
-[PowerShell Security - what to prioritize? - David das Neves](Powershell%20Summit%20Europe%202018/PowerShell%20Security%20-%20what%20to%20prioritize%20-%20David%20das%20Neves.md)
+[PowerShell Core 6 auf Linux. Und was mach ich jetzt damit auf Linux? - Dr. H. Schwichtenberg](Powershell%20Summit%20Europe%202018/PowerShell%20Core%206%20auf%20Linux.%20Und%20was%20mach%20ich%20jetzt%20damit%20auf%20Linux%20-%20Dr.%20H.%20Schwichtenberg.md)
 
 
-[psconf.eu 2018 Opening Ceremony](Powershell%20Summit%20Europe%202018/psconf.eu%202018%20Opening%20Ceremony.md)
+[PowerShell for SharePoint Online  - Rick Taylor](Powershell%20Summit%20Europe%202018/PowerShell%20for%20SharePoint%20Online%20%20-%20Rick%20Taylor.md)
 
 
-[Get to know Will Harmj0y - psconf.eu 2018](Powershell%20Summit%20Europe%202018/Get%20to%20know%20Will%20Harmj0y%20-%20psconf.eu%202018.md)
+[Securing your infrastructure with JEA - Miriam Wiesner](Powershell%20Summit%20Europe%202018/Securing%20your%20infrastructure%20with%20JEA%20-%20Miriam%20Wiesner.md)
 
 
-[PowerShell in Azure Cloud Shell - Aleksandar Nikolic](Powershell%20Summit%20Europe%202018/PowerShell%20in%20Azure%20Cloud%20Shell%20-%20Aleksandar%20Nikolic.md)
+[Invoke-CypherDog - Bloodhound Dog Whispering with PowerShell - Walter Legowski](Powershell%20Summit%20Europe%202018/Invoke-CypherDog%20-%20Bloodhound%20Dog%20Whispering%20with%20PowerShell%20-%20Walter%20Legowski.md)
 
 
-[PowerShell 2018 - State of the Art - psconf.eu 2018 Keynote](Powershell%20Summit%20Europe%202018/PowerShell%202018%20-%20State%20of%20the%20Art%20-%20psconf.eu%202018%20Keynote.md)
+[Hands-on JEA - Jan-Hendrik Peters, Raimund Andree](Powershell%20Summit%20Europe%202018/Hands-on%20JEA%20-%20Jan-Hendrik%20Peters%20Raimund%20Andree.md)
 
 
